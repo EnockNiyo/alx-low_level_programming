@@ -1,0 +1,188 @@
+    1  ls 
+    2  cd alx-system_engineering-devops
+    3  ls 
+    4  cd 0x02-shell_redirections
+    5  ls 
+    6  git add 7-file
+    7  git commit -m "7-file"
+    8  git branch -M main
+    9  git remote add origin https://github.com/EnockNiyo/alx-system_engineering-devops
+   10  git push
+   11  git --help
+   12  git init 
+   13  git add 7-file
+   14  git commit -m '7-file'
+   15  git add 7-file
+   16  git push
+   17  clear
+   18  exit 
+   19  ls 
+   20  pwd 
+   21  cd root
+   22  pwd
+   23  cd ..
+   24  ls 
+   25  git clone https://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@github.com/EnockNiyo/alx-low_level_programming.git
+   26  ls 
+   27  cd  alx-low_level_programming
+   28  mkdir  0x00-hello_world
+   29  vi 0-preprocessor
+   30  vi 0x00-hello_world/0-preprocessor
+   31  chmod u+x 0-preprocessor
+   32  ls 
+   33  cd 0x00-hello_world
+   34  ls 
+   35  chmod u+x 0-preprocessor
+   36  echo "First c programming" >README.md
+   37  ls 
+   38  git add .
+   39  git commit -m "0-preprocessor"
+   40  git push
+   41  ls 
+   42  cp 0-preprocessor 1-compiler
+   43  vi 1-compiler
+   44  git add 1-compiler
+   45  git commit -m "1-compiler"
+   46  git push
+   47  chmod u+x 1-compiler
+   48  git add 1-compiler
+   49  git commit -m "1-compiler"
+   50  git commit -m "1-compiler file "
+   51  git push
+   52  ls 
+   53  mv 1-compiler 1-compiler1
+   54  ls 
+   55  mv 1-compiler1 1-compiler
+   56  ls 
+   57  git add 1-compiler
+   58  git commit -m "1-compiler"
+   59  vi 1-compiler
+   60  git add 1-compiler
+   61  git commit -m "1-compiler"
+   62  git branch
+   63  git push
+   64  git push origin master
+   65  clear
+   66  ls 
+   67  chmod 1-compiler
+   68  chmod u+x  1-compiler
+   69  ls 
+   70  git add .
+   71  git commit -m "1-compiler"
+   72  git commit -m "1-compiler file "
+   73  exit 
+   74  ls 
+   75  cd alx-low_level_programming
+   76  ls 
+   77  cd 0x00-hello_world
+   78  ls 
+   79  git add .
+   80  git commit -m "0x00-hello_world"
+   81  git init 
+   82  ls 
+   83  git add .
+   84  git commit -m "0x00-hello_world"
+   85  git push
+   86  git remote add 1-compiler https://github.com/EnockNiyo/alx-low_level_programming
+   87  git push 1-compiler
+   88  git push 
+   89  git push origin master
+   90  cd ..
+   91  git add .
+   92  git commit -m "1-compiler"
+   93  git init 
+   94  ls 
+   95  cd 0x00-hello_world
+   96  l 
+   97  git add 1-compiler
+   98  git commit -m "1-compiler"
+   99  vi 1-compiler
+  100  git add .
+  101  git commit -m "1-compiler"
+  102  git rev-parse --show-toplevel
+  103  mv 1-compiler 1-compiler2
+  104  git  add .
+  105  git commit -m "1-compiler"
+  106  mv 1-compiler2 1-compiler
+  107  ls 
+  108  git add .
+  109  gi commit -m "1-compiler file"
+  110  git commit -m "1-compiler file"
+  111  git push
+  112  cd ..
+  113  git config --global user.email "niyomwungerienock@gmail.com"
+  114  git config --global user.name "EnockNiyo"
+  115  git add .
+  116  git commit -m "1-compiler file"
+  117  git push
+  118  clear 
+  119  ls 
+  120  cd 0x00-hello_world
+  121  ls 
+  122  mv 1-compiler
+  123  mv 1-compiler 1-compiler2
+  124  git add .
+  125  git commit -m "1-compiler"
+  126  mv 1-compiler2 1-compiler
+  127  git add .
+  128  ls 
+  129  git commit -m "1-compiler"
+  130  git push
+  131  git add . https://github.com/EnockNiyo/alx-low_level_programming
+  132  git add 1-compiler  https://github.com/EnockNiyo/alx-low_level_programming
+  133  git add 1-compiler https://github.com/EnockNiyo/alx-low_level_programming
+  134  git add 1-compiler https://github.com/EnockNiyo/alx-low_level_programming/tree/master/0x00-hello_world
+  135  git push
+  136  git push 1-compiler
+  137  cd ..
+  138  ls 
+  139  rm -r alx-low_level_programming
+  140  git clone https://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@github.com/EnockNiyo/alx-low_level_programming
+  141  ls 
+  142  cd alx-low_level_programming
+  143  ls 
+  144  cd 0x00-hello_world
+  145  ls 
+  146  cp 0-preprocessor 1-compiler
+  147  ls 
+  148  vi 1-compiler
+  149  git add .
+  150  git commit -m "1-compiler"
+  151  git push
+  152  clear
+  153  touch 2-assembler
+  154  l 
+  155  cp 1-compiler 2-assembler
+  156  vi 2-assembler
+  157  chmod u+x 2-assembler
+  158  git add .
+  159  git commit -m "2-assembler"
+  160  git push
+  161  vi 2-assembler
+  162  git add .
+  163  git commit -m "2-assembler"
+  164  git push
+  165  vi 3-name
+  166  git add .
+  167  git commit -m "3-name"
+  168  git push
+  169  vi 3-name
+  170  chmod u+x 3-name
+  171  git add .
+  172  git commit -m "3-name"
+  173  git push
+  174  vi 4-puts.c
+  175  chmod u+ 4-puts.c
+  176  chmod u+x 4-puts.c
+  177  git add .
+  178  git commit -m "4-puts.c"
+  179  git push
+  180  vi 4-puts.c
+  181  gcc 4-puts.c -o
+  182  gcc 4-puts.c -o 4-puts.c
+  183  gcc 4-puts.c -o 
+  184  git add .
+  185  git commit -m "4-puts.c"
+  186  git push
+  187  vi 5-printf.c
+  188  history > myCommand
